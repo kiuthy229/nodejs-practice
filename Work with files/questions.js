@@ -1,4 +1,4 @@
-const collectAnswers = require("./lib/collectAnswers")
+const collectAnswers = require("../Node modules/lib/collectAnswers")
 
 const questions = ["what is your name", "where do you live", "what are you going to do with nodejs"]
 
